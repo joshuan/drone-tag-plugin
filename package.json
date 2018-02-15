@@ -1,0 +1,11 @@
+{
+  "name": "drone-tag-plugin",
+  "version": "0.0.0",
+  "description": "Drone plugin for put tag with build number to building commit",
+  "author": "Evgeniy Shershnev <joshuan.chel@gmail.com>",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "@octokit/rest": "^14.0.9"
+  }
+}
